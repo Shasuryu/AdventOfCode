@@ -1,0 +1,6 @@
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\obj\Debug\net6.0\AoC_2015_Tests.csproj.AssemblyReference.cache
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\obj\Debug\net6.0\AoC_2015_Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\obj\Debug\net6.0\AoC_2015_Tests.AssemblyInfoInputs.cache
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\obj\Debug\net6.0\AoC_2015_Tests.AssemblyInfo.cs
+C:\Users\leon.hainke\source\repos\AdventOfCode\AoC_2015_Tests\obj\Debug\net6.0\AoC_2015_Tests.csproj.CoreCompileInputs.cache
