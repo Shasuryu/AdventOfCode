@@ -50,4 +50,3 @@ C:\Users\leon.hainke\Desktop\repos\AdventOfCode\AdventOfCode\bin\Debug\net6.0\Y2
 C:\Users\leon.hainke\Desktop\repos\AdventOfCode\AdventOfCode\bin\Debug\net6.0\Y2015Day23\Y2015Day23.txt
 C:\Users\leon.hainke\Desktop\repos\AdventOfCode\AdventOfCode\bin\Debug\net6.0\Y2015Day24\Y2015Day24.txt
 C:\Users\leon.hainke\Desktop\repos\AdventOfCode\AdventOfCode\bin\Debug\net6.0\Y2015Day25\Y2015Day25.txt
-C:\Users\leon.hainke\Desktop\repos\AdventOfCode\AdventOfCode\bin\Debug\net6.0\Y2015Day15\Y2015Day155.txt
